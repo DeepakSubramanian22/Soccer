@@ -1,0 +1,4 @@
+repository "Soccer 2026-05-29_14-49-26/Soccer@13469502335572@cloud"
+  path "/"
+    br "/main"
+    co "/main"
